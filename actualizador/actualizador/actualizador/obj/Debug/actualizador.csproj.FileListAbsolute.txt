@@ -1,0 +1,16 @@
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.csproj.AssemblyReference.cache
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.csproj.SuggestedBindingRedirects.cache
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\MainWindow.g.cs
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\App.g.cs
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador_MarkupCompile.cache
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador_MarkupCompile.lref
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\bin\Debug\actualizador.exe.config
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\bin\Debug\actualizador.exe
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\bin\Debug\actualizador.pdb
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\MainWindow.baml
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.g.resources
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.Properties.Resources.resources
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.csproj.GenerateResource.cache
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.csproj.CoreCompileInputs.cache
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.exe
+C:\Users\Code\Documents\LAUNCHERS CODE\actualizador\actualizador\actualizador\obj\Debug\actualizador.pdb
